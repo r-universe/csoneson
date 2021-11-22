@@ -8,3 +8,13 @@
 	url = https://github.com/csoneson/dreval
 	shallow = true
 	registered = true
+[submodule "jcc"]
+	path = jcc
+	url = https://github.com/csoneson/jcc
+	shallow = true
+	registered = true
+[submodule "ConfoundingExplorer"]
+	path = ConfoundingExplorer
+	url = https://github.com/csoneson/ConfoundingExplorer
+	shallow = true
+	registered = true
