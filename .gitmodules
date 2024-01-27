@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/csoneson/universe
+	url = https://github.com/csoneson/csoneson.r-universe.dev
 	branch = HEAD
 [submodule "ConfoundingExplorer"]
 	path = ConfoundingExplorer
